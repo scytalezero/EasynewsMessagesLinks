@@ -5,6 +5,7 @@
 // @author      Bryan Creel
 // @homepageURL https://github.com/scytalezero/EasynewsMessagesLinks
 // @updateURL   https://github.com/scytalezero/EasynewsMessagesLinks/raw/master/EasynewsMessagesLinks.user.js
+// @downloadURL https://github.com/scytalezero/EasynewsMessagesLinks/raw/master/EasynewsMessagesLinks.user.js
 // @icon        https://pbs.twimg.com/profile_images/479627852757733376/8v9zH7Yo_normal.jpeg
 // @include     https://*.easynews.com/edit/messages.phtml*
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js
