@@ -8,8 +8,9 @@
 // @downloadURL https://github.com/scytalezero/EasynewsMessagesLinks/raw/master/EasynewsMessagesLinks.user.js
 // @icon        https://pbs.twimg.com/profile_images/479627852757733376/8v9zH7Yo_normal.jpeg
 // @include     https://*.easynews.com/edit/messages.phtml*
+// @include     https://account.easynews.com/messages.php*
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js
-// @version     1.1
+// @version     1.2
 // ==/UserScript==
 
 $link = $("pre > a");
